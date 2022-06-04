@@ -1,5 +1,1 @@
-# blog-deploy-heroku
-It is deployed on heroku:https://morning-depths-84081.herokuapp.com/
-"# WelfareWebsite" 
-"# WelfareSociety" 
-# welfareWebsite
+It is deployed on heroku:https://whispering-dawn-51192.herokuapp.com/
