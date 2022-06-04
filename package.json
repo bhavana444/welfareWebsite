@@ -1,0 +1,32 @@
+{
+  "name": "blog-with-database-final",
+  "version": "1.0.0",
+  "description": "It is deployed on heroku:https://gentle-oasis-36905.herokuapp.com/",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhavana444/blog-deploy-heroku.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": "14.15.1"
+  },
+  "bugs": {
+    "url": "https://github.com/bhavana444/blog-deploy-heroku/issues"
+  },
+  "homepage": "https://github.com/bhavana444/blog-deploy-heroku#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^10.0.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.14",
+    "mongoose-encryption": "^2.1.0"
+  },
+  "devDependencies": {}
+}

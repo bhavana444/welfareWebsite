@@ -1,0 +1,27 @@
+
+body {
+    background-color: #E8ECEF;
+    
+  }
+  
+  .centered {
+      padding-top: 200px;
+      text-align: center;
+
+  }
+ h1{
+   text-align: center;
+   margin-top:2%;
+ }
+ .side{
+   margin-left:20%;
+ }
+  .secret-text {
+    text-align: center;
+    font-size: 2rem;
+    color: #fff;
+    background-color: #000;
+  }
+  .reg_log_btn{
+    margin-left:45%;
+  }
